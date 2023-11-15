@@ -12,10 +12,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/kunalarora0930](github.com/kunalarora0930)
-
-- 💬 Ask me about **React, Web development, Machine Learning**
-
 - 📫 How to reach me **kunalarora0930@gmail.com**
 
 - ⚡ Fun fact **Cats have five toes on their front paws but only four on their back ones.**
