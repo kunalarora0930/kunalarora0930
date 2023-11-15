@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Arora</h1>
 <h3 align="center">A Third year Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalarora0930&label=Profile%20views&color=0e75b6&style=flat" alt="kunalarora0930" /> </p>
 
 ## About Me
 - 🎓 Currently pursuing a degree in Computer Science at Thapar Institute of Engineering and Technology.
@@ -35,6 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalarora0930&show_icons=true&locale=en" alt="kunalarora0930" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalarora0930&" alt="kunalarora0930" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalarora0930&label=Profile%20views&color=0e75b6&style=flat" alt="kunalarora0930" /> </p>
 </center>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
