@@ -1,3 +1,4 @@
+![logo](https://github.com/kunalarora0930/kunalarora0930/blob/main/hacker%20cat%20copy.jpg)
 <h1 align="center">Hi 👋, I'm Kunal Arora</h1>
 <h3 align="center">A Third year Computer Science Student</h3>
 
