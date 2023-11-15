@@ -4,7 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalarora0930&label=Profile%20views&color=0e75b6&style=flat" alt="kunalarora0930" /> </p>
 
+## About Me
 - 🎓 Currently pursuing a degree in Computer Science at Thapar Institute of Engineering and Technology.
+
+- ☕ Turning **coffee** into code. 
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Python, OpenCV**
 
@@ -17,6 +20,9 @@
 - 📫 How to reach me **kunalarora0930@gmail.com**
 
 - ⚡ Fun fact **Cats have five toes on their front paws but only four on their back ones.**
+
+- 💡 Always eager to learn and contribute to exciting projects.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
