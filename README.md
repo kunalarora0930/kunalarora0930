@@ -8,7 +8,7 @@
 
 - ☕ Turning **coffee** into code. 
 
-- 🌱 I’m currently learning **Machine Learning, Statistics, Python, OpenCV**
+- 🌱 I’m currently learning **Machine Learning, Statistics, Python, Neural Networks**
 
 - 👯 I’m looking to collaborate on **Web Development, Machine Learning**
 
