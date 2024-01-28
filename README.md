@@ -81,4 +81,5 @@ Other: <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img s
 <a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kunalarora0930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunalarora0930" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalarora0930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalarora0930" height="30" width="40" /></a>
+<a href="https://kaggle.com/cheesecke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cheesecke" height="30" width="40" /></a>
 </p>
